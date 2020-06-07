@@ -1,0 +1,21 @@
+{
+	"name": "Devops-Session-nodeapp",
+	"version" : "1.0.0",
+	"description" : "A Hello World HTTP server using Node JS",
+	"main" : "app.js" ,
+	"scripts": {
+	"start" : "node app.js"
+	},
+	"repository" : {
+	"type" : "git" ,
+	"url": "https://github.com/rdey4149/DevopsSessionNodeApp"
+	},
+	"keywords" : [
+	"node",
+	"docker",
+	"dockerfile"
+	],
+	"author" : "ranjnadey01@gmail.com",
+	"license" : "ABC"
+	}
+	
